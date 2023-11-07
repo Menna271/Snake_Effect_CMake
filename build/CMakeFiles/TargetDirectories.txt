@@ -1,0 +1,6 @@
+/home/menna/Documents/ITIDA_Linux/make_project/Second_Part/build/CMakeFiles/rebuild_cache.dir
+/home/menna/Documents/ITIDA_Linux/make_project/Second_Part/build/CMakeFiles/edit_cache.dir
+/home/menna/Documents/ITIDA_Linux/make_project/Second_Part/build/CMakeFiles/snake_effect.dir
+/home/menna/Documents/ITIDA_Linux/make_project/Second_Part/build/lib/CMakeFiles/rebuild_cache.dir
+/home/menna/Documents/ITIDA_Linux/make_project/Second_Part/build/lib/CMakeFiles/edit_cache.dir
+/home/menna/Documents/ITIDA_Linux/make_project/Second_Part/build/lib/CMakeFiles/MDIO.dir

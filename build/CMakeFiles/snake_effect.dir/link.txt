@@ -1,0 +1,1 @@
+/usr/bin/avr-gcc -Wall -mmcu=atmega32 -Os -DF_CPU=1000000UL   CMakeFiles/snake_effect.dir/src/main.c.obj  -o snake_effect.elf  lib/libMDIO.a 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/LBit_Math.h
+
+../inc/LSTD_Types.h
+
+../lib/MDIO_Interface.h
+
+/home/menna/Documents/ITIDA_Linux/make_project/Second_Part/src/main.c
+LBit_Math.h
+/home/menna/Documents/ITIDA_Linux/make_project/Second_Part/src/LBit_Math.h
+LSTD_Types.h
+/home/menna/Documents/ITIDA_Linux/make_project/Second_Part/src/LSTD_Types.h
+MDIO_Interface.h
+/home/menna/Documents/ITIDA_Linux/make_project/Second_Part/src/MDIO_Interface.h
+util/delay.h
+-
+

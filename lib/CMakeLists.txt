@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.0)
+set(CMAKE_SYSTEM_NAME Generic)
+project(MY_LIB)
+set(CMAKE_C_COMPILER avr-gcc CACHE STRING "C compiler" FORCE)
+add_library(MDIO STATIC MDIO_Program.c)
+target_include_directories(MDIO PUBLIC ../inc/ ./lib/)
